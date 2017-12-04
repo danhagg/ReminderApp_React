@@ -1,1 +1,1 @@
-web: node app.jsx
+web: bin/boot
